@@ -1,0 +1,7 @@
+fastapi
+homecloud
+lanutils
+pydantic
+requests
+tomlkit
+uvicorn
